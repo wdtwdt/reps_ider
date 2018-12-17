@@ -12,4 +12,8 @@ public class GitTest {
         System.out.println("git.....");
 
     }
+    public void test(){
+        int i=88;
+        System.out.println(i);
+    }
 }
